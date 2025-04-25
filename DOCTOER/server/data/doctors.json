@@ -1,0 +1,192 @@
+[
+  {
+    "id": 111418,
+    "name": "Dr. Kshitija Jagdale",
+    "specialty": ["Dentist"],
+    "experience": 13,
+    "fee": 500,
+    "rating": 4.7,
+    "ratingCount": 98,
+    "isVideoConsultationAvailable": true,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/539482078762581145_5a00f31266ed11efbae40ada1afa5198_ProfilePic_crop%20pic.jpg",
+    "introduction": "Dr. Kshitija Jagdale, BDS, has an Experience of 10 years, Graduated from Maharashtra University of Health Sciences, Nashik, currently practising in The Dent Inn Advanced Dental Clinic, Fatima Nagar, Pune",
+    "languages": ["English", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "The Dent Inn Advanced Dental Clinic",
+      "locality": "Wanowrie",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 131682,
+    "name": "Dr. Chhaya Vora",
+    "specialty": ["Gynaecologist and Obstetrician"],
+    "experience": 39,
+    "fee": 400,
+    "rating": 4.8,
+    "ratingCount": 125,
+    "isVideoConsultationAvailable": false,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/86682006799921180_c2227daee53711eea656ba7c2485ed7e_ProfilePic_IMG-20220927-WA0006.jpg",
+    "introduction": "",
+    "languages": ["English", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "Dr. Chaya Vora",
+      "locality": "Hadapsar",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 68593,
+    "name": "Dr. Murtuza Agashiwala",
+    "specialty": ["Dentist"],
+    "experience": 19,
+    "fee": 250,
+    "rating": 4.5,
+    "ratingCount": 85,
+    "isVideoConsultationAvailable": false,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/372117306642682922_abb27766e52f11ee9680ba7c2485ed7e_ProfilePic_IMG-20211013-WA0001.jpg",
+    "introduction": "",
+    "languages": ["English", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "Dr Murtaza M. Agashiwala's Clinic",
+      "locality": "Wanowrie",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 110857,
+    "name": "Dr. Khushi Patel",
+    "specialty": ["Dentist"],
+    "experience": 31,
+    "fee": 300,
+    "rating": 4.9,
+    "ratingCount": 145,
+    "isVideoConsultationAvailable": true,
+    "isInClinicConsultationAvailable": false,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/53155314380258887_be1d0c2675a411ef98f1b60948eee953_ProfilePic_Khushi%20Patel%20PIC.jpg",
+    "introduction": "Dr. Khushi Patel, BDS, has an Experience of 27 years, Graduated from Bharati Vidyapeeth Dental College and Hospital, Pune, currenlty practising in Dr Khushis Dental Planet, Fatima Nagar, Pune",
+    "languages": ["English", "ગુજરાતી", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "Dr Khushi's Dental Planet",
+      "locality": "Wanowrie",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 101448,
+    "name": "Dr. Mrinal Parikh",
+    "specialty": ["Homeopath"],
+    "experience": 8,
+    "fee": 650,
+    "rating": 4.7,
+    "ratingCount": 112,
+    "isVideoConsultationAvailable": false,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/44170435793258358_bb1c211050b011ef9196a6bb5f4610d0_ProfilePic_Dr%20Mrinal%20Pic.jpg",
+    "introduction": "Dr. Mrinal Parikh-Wani, a practicing Homoeopathic Consultant in Pune has completed her Post Graduation in Homoeopathy In Practice Of Medicine.",
+    "languages": ["English", "ગુજરાતી", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "Mrinal Homeopathic Clinic",
+      "locality": "Wanowrie",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 113690,
+    "name": "Dr. Munaf Inamdar",
+    "specialty": ["General Physician"],
+    "experience": 27,
+    "fee": 600,
+    "rating": 4.8,
+    "ratingCount": 132,
+    "isVideoConsultationAvailable": false,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/59381340713910760_3d65c720a94011ee8647b22c281c2b87_ProfilePic_ProfilePic_IMG_20220620_131507.jpg",
+    "introduction": "",
+    "languages": ["English", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "Apex Multispeciality and Maternity Hospital",
+      "locality": "Kondhawa Khurd",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 84141,
+    "name": "Dr. Abdul Danish",
+    "specialty": ["General Physician"],
+    "experience": 9,
+    "fee": 600,
+    "rating": 4.6,
+    "ratingCount": 95,
+    "isVideoConsultationAvailable": false,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/410151505984132444_0912b3a62fc411ef98d7eebe0baffa56_ProfilePic_ProfilePic_Dr.jpg",
+    "introduction": "Dr. Abdul Rahman Danish, MBBS, MPH, Critical Care Medicine, has an Experience of 6 years",
+    "languages": ["English", "हिन्दी"],
+    "clinic": {
+      "name": "Inamdar Multispeciality Hospital",
+      "locality": "Wanowrie",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 101103,
+    "name": "Dr. Amruta Gotkhinde",
+    "specialty": ["Dentist"],
+    "experience": 13,
+    "fee": 300,
+    "rating": 4.7,
+    "ratingCount": 88,
+    "isVideoConsultationAvailable": true,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/44091958703258182_2a1de25ac71411eebbea727cfb7d3fc1_ProfilePic_149228621_116259057099307_7373318381311689729_n.jpg",
+    "introduction": "",
+    "languages": ["English", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "Ultra Care Dentist & Orthodontic Clinic",
+      "locality": "Wanwadi",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 25256,
+    "name": "Dr. Rohit Chakor",
+    "specialty": ["Orthopaedic"],
+    "experience": 15,
+    "fee": 600,
+    "rating": 4.9,
+    "ratingCount": 200,
+    "isVideoConsultationAvailable": false,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/271078303351221429_c58e9cb82fc211efb681aa828885d506_ProfilePic_IMG_20201029_200420.jpg",
+    "introduction": "Consultant orthopaedic surgeon practising in pune specialized in minimally invasive joint replacement and arthroscopy surgery from germany.",
+    "languages": ["English", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "The Bone And Joint Clinic",
+      "locality": "Wanwadi",
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 118565,
+    "name": "Dr. Jolly Sinha",
+    "specialty": ["Dentist"],
+    "experience": 15,
+    "fee": 250,
+    "rating": 4.5,
+    "ratingCount": 110,
+    "isVideoConsultationAvailable": false,
+    "isInClinicConsultationAvailable": true,
+    "photo": "https://doctorlistingingestionpr.azureedge.net/6862728951295095_252269d02fbd11efadb7eebe0baffa56_ProfilePic_IMG_20220304_195226.jpg",
+    "introduction": "",
+    "languages": ["English", "हिन्दी", "मराठी"],
+    "clinic": {
+      "name": "Cosmodental Clinic And Implant Centre",
+      "locality": "Wanowrie",
+      "city": "Pune"
+    }
+  }
+]
